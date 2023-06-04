@@ -38,9 +38,9 @@ List the main features and functionalities of your Daily Journal project. Highli
 Provide step-by-step instructions on how to install and set up your Daily Journal project locally. Include any dependencies or prerequisites that need to be installed.
 
 ```bash
-$ git clone https://github.com/your-username/daily-journal.git
+$ git clone https://github.com/MuhammadAhmad522/Daily-Journal.git
 $ cd daily-journal
 $ npm install
 $ node app.js
 
-Then go to [http://localhost:3000](http://localhost:3000/) and you are good to go
+Then go to http://localhost:3000/ and you are good to go
