@@ -29,6 +29,8 @@ Provide a brief overview of your Daily Journal project. Explain its purpose and 
 
 List the main features and functionalities of your Daily Journal project. Highlight the core aspects that make your project unique and useful.
 
+--> /compose to compose new post
+
 ---
 
 ## Installation
